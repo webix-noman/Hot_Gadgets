@@ -1,0 +1,50 @@
+.container {
+  margin-bottom: 50px;
+}
+
+img.hotLogo {
+  width: 135px;
+}
+
+/* =========== */
+
+
+p.para {
+  color: #a6a4a4;
+}
+
+button.buyBtn {
+  background-color: #343A40;
+  color: white;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 4px;
+}
+
+#slide {
+  background-color: #FFC61E;
+  padding: 2px;
+  border-radius: 100%;
+  width: 7px;
+}
+/* ================ */
+
+
+/* Smartphone */
+.row{
+  margin-bottom: 50px;
+}
+.seeAll{
+  text-decoration: none;
+  float: right;
+  color:#FFC61E;
+}
+
+
+.card{
+  margin-right: 15px;
+  border-radius: 8px;
+  border: none;
+  padding: 60px;
+  box-shadow: 0px 0px 10px 0px #F0F0F0;
+}
